@@ -2,12 +2,12 @@
 
 Data Visualization, Data Analysis, Tableau
 
-##Objective
+## Objective
 Create a tableau dashboard that will show the superstore's current and forecasted financial and operational performance.
 
-##Method
-Perform the needed data cleaning steps
-Analyze the data and create a tableau dashboard for end users
+## Method
+ - Perform the needed data cleaning steps
+ - Analyze the data and create a tableau dashboard for end users
 
-##Conclusion
+## Conclusion
 Please use the dashboard to make your own conclusion
